@@ -3,7 +3,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Pranave P [Embed personal github URL]
-2. Ashwin [Embed perosnal github URL]
+2. Ashwin [https://github.com/ashwinsubodh]
 ## Team Id BFH/recXtv6Bx0QjVESIr/2021
 Team id here
 ## Link to product walkthrough
