@@ -2,9 +2,9 @@
 # Pediakart Shopping app Flutter
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-## Team Id
+1. Pranave P [Embed personal github URL]
+2. Ashwin [Embed perosnal github URL]
+## Team Id BFH/recXtv6Bx0QjVESIr/2021
 Team id here
 ## Link to product walkthrough
 [link to video]
