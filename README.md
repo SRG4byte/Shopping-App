@@ -1,46 +1,19 @@
-# Pediakart Shopping app - Flutter UI 
-
-
-**Packages we are using:**
-
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-
-### Video Preview of Final UI
-
-![Preview](/intro.gif)
-
-## Screens it contains:
-
-=> Onboarding
-
-=> Login
-
-=> Forgot Password
-
-=> Sign Up
-
-=> Complete Profile
-
-=> OTP Verification
-
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile (added)
-
-=> Bottom Navigation Bar (added)
-
-Now it contains all the screen, thanks for your love and support 🙏 
-
-## Photos
-![Preview](/1.png)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+# Project Name
+Long Description about project. This project do that. This project is awesome...
+## Team members
+1. Name [Embed personal github URL]
+2. Name [Embed perosnal github URL]
+## Team Id
+Team id here
+## Link to product walkthrough
+[link to video]
+## How it Works ?
+1. Explaining the working of project
+2. Embed video of project demo
+## Libraries used
+Library Name - Version
+## How to configure
+Instructions for setting up project
+## How to Run
+Instructions for running
